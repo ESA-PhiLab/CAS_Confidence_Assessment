@@ -25,3 +25,10 @@ European Space Agency (ESA)
 
 Φ-lab, ESA, ESRIN, Italy
 
+
+## Flowchart Diagram:
+
+![plot](./Figures/FlowchartDiagramPNG.png)
+
+Figure 1: Flowchart of the proposed model CAS for semantic segmentation confidence assessment.  
+
