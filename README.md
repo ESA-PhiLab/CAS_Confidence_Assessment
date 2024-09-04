@@ -5,7 +5,7 @@ GitHub repo of paper
 
 
 
-**Title of paper:** Fine-Tuning EO Foundation Models with Confidence Assessment for enhanced Semantic segmentation (CAS)     
+**Title of paper:** Fine-Tuning EO Foundation Models with Confidence Assessment for enhanced Semantic segmentation (CAS)      
 
 
 
@@ -31,4 +31,47 @@ European Space Agency (ESA)
 ![plot](./Figures/FlowchartDiagramPNG.png)
 
 Figure 1: Flowchart of the proposed model CAS for semantic segmentation confidence assessment.  
+
+
+## Brief Discussion about the Model:
+
+We develop a model for confidence assessment of semantic segmentation classification of multi-spectral data, i.e. data from Sentinel-2. 
+
+
+Tested with: Python 3.10.13
+
+Code in PyTorch
+
+We have used the Visual Studio Code IDE Code Editor.
+
+## CAS Results
+
+The main results and the key outcomes of the proposed model CAS can be found in the paper "Fine-Tuning EO Foundation Models with Confidence Assessment for enhanced Semantic segmentation (CAS)".
+
+## Acknowledgement:
+
+All the acknowledgements, references, and citations for the model CAS can be found in the paper "Fine-Tuning EO Foundation Models with Confidence Assessment for enhanced Semantic segmentation (CAS)". 
+
+## If you use our code, please cite:
+
+Nikolaos Dionelis and Nicolas Longepe, "Fine-Tuning EO Foundation Models with Confidence Assessment for enhanced Semantic segmentation (CAS)," To appear, 2024.
+
+```
+@misc{dionelis2023,
+  title        = "Fine-Tuning EO Foundation Models with Confidence Assessment for enhanced Semantic segmentation (CAS)",
+  author       = "Nikolaos Dionelis and Nicolas Longepe",
+  year         = 2024,
+  note         = "To appear"
+}
+```
+
+If you would like to get in touch, please contact: [Nikolaos.Dionelis@esa.int](mailto:Nikolaos.Dionelis@esa.int?subject=[GitHub]).
+
+## Further Information
+
+Paper: "Fine-Tuning EO Foundation Models with Confidence Assessment for enhanced Semantic segmentation (CAS)"  
+
+Submitted to IEEE   
+
+European Space Agency (ESA), ESRIN, Φ-lab, Italy: [ESA Φ-lab](http://philab.esa.int)
 
