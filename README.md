@@ -1,11 +1,11 @@
 # CAS_Confidence_Assessment
 **CAS: Confidence Assessments of classification algorithms for Semantic segmentation of EO data**
 
-GitHub repo of paper
+GitHub repo of paper 
 
 
 
-**Title of paper:** Fine-Tuning EO Foundation Models with Confidence Assessment for enhanced Semantic segmentation  
+**Title of paper:** Fine-Tuning EO Foundation Models with Confidence Assessment for enhanced Semantic segmentation (CAS)     
 
 
 
