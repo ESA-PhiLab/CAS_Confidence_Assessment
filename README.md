@@ -57,12 +57,12 @@ All the acknowledgements, references, and citations for the model CAS can be fou
 Nikolaos Dionelis and Nicolas Longepe, "Fine-Tuning EO Foundation Models with Confidence Assessment for enhanced Semantic segmentation (CAS)," To appear, 2024.
 
 ```
-@misc{dionelis2023,
+@misc{dionelis2024,
   title        = "Fine-Tuning EO Foundation Models with Confidence Assessment for enhanced Semantic segmentation (CAS)",
   author       = "Nikolaos Dionelis and Nicolas Longepe",
   year         = 2024,
   note         = "To appear"
-}
+} 
 ```
 
 If you would like to get in touch, please contact: [Nikolaos.Dionelis@esa.int](mailto:Nikolaos.Dionelis@esa.int?subject=[GitHub]).
