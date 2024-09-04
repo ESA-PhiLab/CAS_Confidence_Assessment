@@ -3,8 +3,15 @@
 
 GitHub repo of paper
 
+**Title of paper:**
+
+Fine-Tuning Foundation Models with Confidence Assessment for enhanced Semantic segmentation
+
 **Abstract of paper:**
-Confidence assessments of semantic segmentation algorithms are important. It is a desirable property of models to a priori know if they produce an incorrect output. Evaluations of the confidence assigned to the estimates of models for the task of classification in Earth Observation (EO) are crucial as they can be used to achieve improved semantic segmentation performance and prevent high error rates during inference. The model we develop, Confidence Assessments of classification algorithms for Semantic segmentation (CAS), performs confidence evaluation at the segment and pixel levels, and outputs both labels and confidence. Our model CAS detects the segments with incorrect predicted labels using the proposed combined confidence metric, refines the model, and improves its performance. The outcome of this work has important applications. The main application is the evaluation of EO Foundation Models on semantic segmentation downstream tasks, in particular on land cover classification using satellite Sentinel-2 data. The evaluation shows that the proposed model CAS is effective and outperforms other baseline models.    
+
+Confidence assessments of semantic segmentation algorithms are important. Ideally, AI models should have the ability to predict in advance whether their output is likely to be incorrect. Assessing the confidence levels of model predictions in Earth Observation (EO) classification is essential, as it can enhance semantic segmentation performance and help prevent high error rates during inference. The model we developed, Confidence Assessment for enhanced Semantic segmentation (CAS), evaluates confidence at both the segment and pixel levels, providing both labels and confidence scores as output. Our model, CAS, identifies segments with incorrect predicted labels using the proposed combined confidence metric, refines the model, and enhances its performance. This work has many significant applications, particularly in evaluating EO Foundation Models on semantic segmentation downstream tasks, such as land cover classification using Sentinel-2 satellite data. The evaluation shows that our model CAS is effective and outperforms other baseline models.
+
+Confidence Assessment for enhanced Semantic segmentation (CAS) model
 
 **Authors of paper:**
 Nikolaos Dionelis and Nicolas Longepe
