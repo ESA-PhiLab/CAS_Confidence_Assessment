@@ -5,9 +5,7 @@ GitHub repo of paper
 
 
 
-**Title of paper:**
-
-Fine-Tuning Foundation Models with Confidence Assessment for enhanced Semantic segmentation
+**Title of paper:** Fine-Tuning Foundation Models with Confidence Assessment for enhanced Semantic segmentation 
 
 
 
