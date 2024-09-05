@@ -44,13 +44,15 @@ Code in PyTorch
 
 We have used the Visual Studio Code IDE Code Editor.
 
+This GitHub repo will be updated shortly! Stay tuned!  
+
 ## CAS Results
 
 The main results and the key outcomes of the proposed model CAS can be found in the paper "Fine-Tuning EO Foundation Models with Confidence Assessment for enhanced Semantic segmentation (CAS)".
 
 ## Acknowledgement:
 
-All the acknowledgements, references, and citations for the model CAS can be found in the paper "Fine-Tuning EO Foundation Models with Confidence Assessment for enhanced Semantic segmentation (CAS)". 
+All the acknowledgements, references, and citations for the model CAS can be found in our paper "Fine-Tuning EO Foundation Models with Confidence Assessment for enhanced Semantic segmentation (CAS)". 
 
 ## If you use our code, please cite:
 
